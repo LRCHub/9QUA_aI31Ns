@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "逆様ライズ",
+  "base_artist": "カイジューバイミー",
+  "createdAt": "2026-03-31T11:31:46.740053Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆様ライズ",
+      "artist": "カイジューバイミー",
+      "has_synced": false,
+      "path": "select/pl_01_逆様ライズ_カイジューバイミー.txt"
+    }
+  ]
+}
